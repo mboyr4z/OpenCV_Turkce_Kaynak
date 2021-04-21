@@ -1,3 +1,4 @@
+
 #opencv
 opencv bilgisayarda görme, renk algılama, resimler üzerinde işlem yapmaya yarayan bir çok dilde kullanılan ve içinde kütüphanelerbulunan pakettir.
 
@@ -8,5 +9,5 @@ PYTHON'A opencv kurmak için;
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/115615726-fd95b200-a2f7-11eb-9e00-488f508193cf.PNG">
+  <img src="https://user-images.githubusercontent.com/82450697/115616001-52d1c380-a2f8-11eb-83f8-bda1815e8b3c.PNG">
 </p>
